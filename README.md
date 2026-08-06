@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pablo Aurelio Gómez García 👋</h1>
+<h1 align="center">Hi, I'm Pablo Aurelio 👋</h1>
 
 <p align="center">
   <strong>Biophysicist · Quantitative microscopist · Scientific software developer</strong>
@@ -13,9 +13,9 @@
 
 ## About me
 
-I study the physical organization and dynamics of living cells through advanced microscopy, single-particle and single-molecule tracking, and quantitative image analysis. My work sits at the intersection of **biophysics, quantitative biology, microscopy, and scientific software**.
+I develop advanced microscopy and quantitative image analysis methods to study the organization and dynamics of living cells. My work sits at the intersection of **biophysics, quantitative biology, imaging, and scientific software**.
 
-I build research tools that turn complex imaging data into reproducible analysis workflows—from cell segmentation and trajectory analysis to intracellular dynamics and RNA quantification. I also develop product and decision tools for long-horizon research and investing.
+I build research tools that turn complex imaging data into reproducible analysis workflows, from cell segmentation and trajectory analysis to intracellular dynamics and RNA quantification. I also develop product and decision tools for long-horizon research and investing.
 
 ## Selected software and projects
 
@@ -54,9 +54,4 @@ I build research tools that turn complex imaging data into reproducible analysis
 - Reproducible scientific software and image-analysis workflows
 - Long-horizon decision systems and investment research
 
-<p align="center">
-  <a href="https://pabloaurelio.com">Personal website</a> ·
-  <a href="https://slowball.ch">Slowball</a> ·
-  <a href="https://www.linkedin.com/in/pablo-aurelio/">LinkedIn</a> ·
-  <a href="https://scholar.google.es/citations?user=wBn676IAAAAJ&hl=es">Google Scholar</a>
-</p>
+
