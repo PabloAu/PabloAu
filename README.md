@@ -33,17 +33,24 @@ I build research tools that turn complex imaging data into reproducible analysis
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="46" height="46" alt="MATLAB" title="MATLAB">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="46" height="46" alt="R" title="R">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original.svg" width="46" height="46" alt="LabVIEW" title="LabVIEW">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="46" height="46" alt="NumPy" title="NumPy">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="46" height="46" alt="pandas" title="pandas">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="46" height="46" alt="Matplotlib" title="Matplotlib">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="46" height="46" alt="OpenCV" title="OpenCV">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/napari/napari@319d090c7c8b8a1a016961af4135ed4ed7590c0e/src/napari/resources/logos/round-padded-light.svg" width="46" height="46" alt="napari" title="napari">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/fiji/fiji@feed450a3f74237b9eb427bb91da40969fdded36/images/fiji-logo-1.0.svg" width="46" height="46" alt="Fiji" title="Fiji">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="46" height="46" alt="scikit-learn" title="scikit-learn">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="46" height="46" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="46" height="46" alt="Jupyter" title="Jupyter">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="46" height="46" alt="React" title="React">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="46" height="46" alt="Next.js" title="Next.js">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dassaultsystemes" width="46" height="46" alt="CATIA" title="CATIA (Dassault Systèmes)">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="46" height="46" alt="Codex" title="Codex">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" width="46" height="46" alt="Claude Code" title="Claude Code">
 </p>
 
 ## Current interests
