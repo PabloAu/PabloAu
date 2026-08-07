@@ -25,7 +25,7 @@ I build research tools that turn complex imaging data into reproducible analysis
 | [**Single-Molecule-Tracking-Analysis**](https://github.com/PabloAu/Single-Molecule-Tracking-Analysis) | Analysis workflows for single-molecule tracking experiments and motion inference. |
 | [**Two-Parameter-SMT**](https://github.com/PabloAu/Two-Parameter-SMT) | MATLAB pipeline for analyzing chromatin and transcription-factor mobility from single-molecule tracking data. |
 | [**Slowball**](https://slowball.ch) | Long-horizon investing research, portfolio analysis, and decision-support tools. |
-| [**pabloaurelio.com**](https://pabloaurelio.com) | My home for research, software, writing, and current projects. |
+
 
 ## 🛠️ Languages and tools
 
