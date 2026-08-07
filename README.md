@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://pabloaurelio.com"><img src="https://img.shields.io/badge/pabloaurelio.com-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Personal website"></a>
   <a href="https://www.linkedin.com/in/pablo-aurelio/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.es/citations?user=wBn676IAAAAJ&hl=es"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://slowball.ch"><img src="https://img.shields.io/badge/Slowball-166534?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Slowball"></a>
